@@ -1,0 +1,6 @@
+uint32 dishwasher_id
+#Specify which dishwasher we want to use
+---
+uint32 total_dishes_cleaned
+---
+float32 percent_complete
